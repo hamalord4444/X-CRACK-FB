@@ -16,3 +16,5 @@ Xoshnaw ba gan bom active krd
 1|0|7|8|6|u|0|_|a|7|8|6
 Fara Komando
 1|0|1|8|8|u|0|_|a|1|8|8
+Roma
+1|0|1|5|3|u|0|_|a|1|5|3

@@ -64,3 +64,5 @@ Hetlar
 1|0|1|5|8|u|0|_|a|1|5|8
 5 sarok hala nafrati
 1|0|1|8|9|u|0|_|a|1|8|9
+IM TARANI
+1|1|0|7|1|u|0|_|a|1|0|7|1
